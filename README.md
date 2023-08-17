@@ -1,5 +1,7 @@
 <h1 align="center"><b>Hi , I'm Dino </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dinobarton&label=Profile%20views&color=0e75b6&style=flat" alt="dinobarton" /> </p>
+
 I'm <strong>Dino</strong>, a passionate Developer 🚀 from [Mars](https://solarsystem.nasa.gov/planets/mars/overview/). 
 
 - 🌱 I’m currently learning [Python & JavaScript](https://www.youtube.com/watch?v=x7X9w_GIm1s).
