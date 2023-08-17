@@ -39,10 +39,6 @@ Check out some of my notable repositories:
 
 ## 🤝🏻 Connect with Me
 
-[![Linkedin](https://www.linkedin.com/in/dino-barton-722a48263/)
-[![GitHub](https://github.com/DinoBarton/)
-[![Twitter](https://twitter.com/D1n0Bart0n)
-
-![Linkedin](https://img.shields.io/badge/-Linkedin-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dino-barton-722a48263/)]
+![Linkedin](https://img.shields.io/badge/-Linkedin-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dino-barton-722a48263/)
 [![GitHub](https://img.shields.io/badge/-Github-181717?style=flat-square&logo=github&link=https://github.com/yourusername)](https://github.com/DinoBarton/)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/yourusername)](https://twitter.com/D1n0Bart0n)
