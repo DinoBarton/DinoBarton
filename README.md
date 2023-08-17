@@ -9,18 +9,18 @@ I'm <strong>Dino</strong>, a passionate Developer 🚀 from [Mars](https://solar
 
 ## 🔧 Technologies & Tools
 
-![macOS](https://img.shields.io/badge/OS-YourOS-FF5733?style=flat-square&logo=YourOSLogo&logoColor=white)
-![HTML](https://img.shields.io/badge/Code-YourPrimaryLanguage-00C853?style=flat-square&logo=LanguageLogo&logoColor=white)
-![CSS](https://img.shields.io/badge/Code-AnotherLanguage-2979FF?style=flat-square&logo=LanguageLogo&logoColor=white)
-![VSCode](https://img.shields.io/badge/Tool-YourFavoriteTool-FFD700?style=flat-square&logo=ToolLogo&logoColor=white)
+![macOS](https://img.shields.io/badge/OS-macOS-FF5733?style=flat-square&logo=YourOSLogo&logoColor=white)
+![HTML](https://img.shields.io/badge/Code-HTML-00C853?style=flat-square&logo=LanguageLogo&logoColor=white)
+![CSS](https://img.shields.io/badge/Code-CSS-2979FF?style=flat-square&logo=LanguageLogo&logoColor=white)
+![VSCode](https://img.shields.io/badge/Tool-VSCode-FFD700?style=flat-square&logo=ToolLogo&logoColor=white)
 
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/DinoBarton">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DinoBarton&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 <a href="https://github.com/DinoBarton">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Your Name's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=DinoBarton&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Your Name's GitHub Stats" />
 </a>
 
 ## ☕ Support Me
@@ -33,9 +33,9 @@ If you find my work helpful, you can donate to my Monero to support me and help 
 
 Check out some of my notable repositories:
 
-- [Repository Name](https://github.com/yourusername/repository-name) - A short description of the repository.
-- [Another Repository](https://github.com/yourusername/another-repository) - Briefly explain the purpose of this repository.
-- [One More Repository](https://github.com/yourusername/one-more-repository) - Provide a quick overview of what this repository contains.
+- [Github-Profile-Templates](https://github.com/DinoBarton/Github-Profile-Templates) - A repo for Github Profiles.
+- [Python-Learning-HUB](https://github.com/DinoBarton/Python-Learning-HUB) - Lessons on Python with videos.
+- [Small-Basic-Calculator](https://github.com/DinoBarton/Small-Basic-Calculator) - My first repo on a project done a while back in school.
 
 ## 🤝🏻 Connect with Me
 
