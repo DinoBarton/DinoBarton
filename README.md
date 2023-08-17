@@ -36,7 +36,7 @@ I'm <strong>Dino</strong>, a passionate Developer 🚀 from [Mars](https://solar
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=DinoBarton)](https://github.com/DinoBarton/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=DinoBarton&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
