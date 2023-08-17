@@ -22,11 +22,11 @@ I'm <strong>Dino</strong>, a passionate Developer 🚀 from [Mars](https://solar
 
 ## &#x1f4c8; GitHub Stats
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DinoBarton&theme=algolia)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DinoBarton&theme=algolia)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DinoBarton&theme=algolia)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DinoBarton&theme=algolia)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DinoBarton&theme=algolia&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DinoBarton&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DinoBarton&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DinoBarton&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DinoBarton&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DinoBarton&theme=github_dark&utcOffset=8)
 
 
 <!--- trophy (start) -->
