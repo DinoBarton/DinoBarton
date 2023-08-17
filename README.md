@@ -7,12 +7,18 @@ I'm <strong>Dino</strong>, a passionate Developer 🚀 from [Mars](https://solar
 - 📫 How to reach me: [Twitter](https://twitter.com/D1n0Bart0n).
 - ⚡ Fun fact: I love my [Business](https://twitter.com/AgileWebInov).
 
-## 🔧 Technologies & Tools
+## 🛠 &nbsp;Tech Stack
 
-![macOS](https://img.shields.io/badge/OS-macOS-FF5733?style=flat-square&logo=YourOSLogo&logoColor=white)
-![HTML](https://img.shields.io/badge/Code-HTML-00C853?style=flat-square&logo=LanguageLogo&logoColor=white)
-![CSS](https://img.shields.io/badge/Code-CSS-2979FF?style=flat-square&logo=LanguageLogo&logoColor=white)
-![VSCode](https://img.shields.io/badge/Tool-VSCode-FFD700?style=flat-square&logo=ToolLogo&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
+![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 
 ## &#x1f4c8; GitHub Stats
 
