@@ -1,8 +1,8 @@
-# Hi there! 👋
+<h1 align="center"><b>Hi , I'm Dino </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 I'm <strong>Dino</strong>, a passionate Developer 🚀 from [Mars](https://solarsystem.nasa.gov/planets/mars/overview/). 
 
-- 🌱 I’m currently learning [Python](https://www.youtube.com/watch?v=x7X9w_GIm1s).
+- 🌱 I’m currently learning [Python & JavaScript](https://www.youtube.com/watch?v=x7X9w_GIm1s).
 - 💬 Ask me about anything, I'm happy to help!
 - 📫 How to reach me: [Twitter](https://twitter.com/D1n0Bart0n).
 - ⚡ Fun fact: I love my [Business](https://twitter.com/AgileWebInov).
