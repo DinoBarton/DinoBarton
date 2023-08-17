@@ -27,7 +27,7 @@ I'm <strong>Dino</strong>, a passionate Developer 🚀 from [Mars](https://solar
 
 If you find my work helpful, you can donate to my Monero to support me and help me out! 🚀🎉
 
-<strong>Monero (XMR) Wallet:</strong> 45jASedpK9pVE9npX9ti7jNLeEKXeZJRxdro2PWLGaXq6noYyXiRLH61otUE6R6F2vg8Pdve2zrSmd28DN1V2J4cDsRgym2
+<strong>Monero (XMR) Wallet:</strong> `45jASedpK9pVE9npX9ti7jNLeEKXeZJRxdro2PWLGaXq6noYyXiRLH61otUE6R6F2vg8Pdve2zrSmd28DN1V2J4cDsRgym2`
 
 ## 📚 My Repositories
 
