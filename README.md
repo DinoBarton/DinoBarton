@@ -24,15 +24,24 @@ I'm <strong>Dino</strong>, a passionate Developer 🚀 from [Mars](https://solar
 
 ## &#x1f4c8; GitHub Stats
 
-<div align="center">
+<p align="center">
+  <!--- stats (start) -->
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+  
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=DinoBarton&theme=dark&show_icons=true&count_private=true" />
+  <br></br>
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=DinoBarton&theme=dark&hide_border=false" /> 
+</td>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DinoBarton&theme=tokyonight)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DinoBarton&theme=tokyonight)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DinoBarton&theme=tokyonight)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DinoBarton&theme=tokyonight)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DinoBarton&theme=tokyonight&utcOffset=8)
+<td width="50%" align="center">
 
-</div>
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=DinoBarton&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  
+  </td>
+</tr>
+</table>
 
 <div align="center">
 
