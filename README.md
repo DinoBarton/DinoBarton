@@ -66,7 +66,7 @@ Check out some of my notable repositories:
 - [Python-Learning-HUB](https://github.com/DinoBarton/Python-Learning-HUB) - Lessons on Python with videos.
 - [Small-Basic-Calculator](https://github.com/DinoBarton/Small-Basic-Calculator) - My first repo on a project done a while back in school.
 
-## 🤝🏻 Connect with Me
+## 🤝🏻 Connect with Me!!!
 
 ![Linkedin](https://img.shields.io/badge/-Linkedin-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dino-barton-722a48263/)
 [![GitHub](https://img.shields.io/badge/-Github-181717?style=flat-square&logo=github&link=https://github.com/yourusername)](https://github.com/DinoBarton/)
