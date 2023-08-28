@@ -22,7 +22,7 @@ I'm <strong>Dino</strong>, a passionate Developer 🚀 from [Mars](https://solar
 ![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 
-## &#x1f4c8; GitHub Stats
+## &#x1f4c8; GitHub Stats!
 
 <p align="center">
   <!--- stats (start) -->
