@@ -7,7 +7,6 @@ I'm <strong>Dino</strong>, a passionate Developer 🚀 from [Mars](https://solar
 - 🌱 I’m currently learning [Python & JavaScript](https://www.youtube.com/watch?v=x7X9w_GIm1s).
 - 💬 Ask me about anything, I'm happy to help!
 - 📫 How to reach me: [Twitter](https://twitter.com/D1n0Bart0n).
-- ⚡ Fun fact: I love my [Business](https://twitter.com/AgileWebInov).
 
 ## 🛠 &nbsp;Tech Stack
 
@@ -52,22 +51,7 @@ I'm <strong>Dino</strong>, a passionate Developer 🚀 from [Mars](https://solar
 </p>        
 <!--- stats (end) -->
 
-## ☕ Support Me
+## 🤝🏻 Connect with Me
 
-If you find my work helpful, you can donate to my Monero to support me and help me out! 🚀🎉
-
-<strong>Monero (XMR) Wallet:</strong> `45jASedpK9pVE9npX9ti7jNLeEKXeZJRxdro2PWLGaXq6noYyXiRLH61otUE6R6F2vg8Pdve2zrSmd28DN1V2J4cDsRgym2`
-
-## 📚 My Repositories
-
-Check out some of my notable repositories:
-
-- [Github-Profile-Templates](https://github.com/DinoBarton/Github-Profile-Templates) - A repo for Github Profiles.
-- [Python-Learning-HUB](https://github.com/DinoBarton/Python-Learning-HUB) - Lessons on Python with videos.
-- [Small-Basic-Calculator](https://github.com/DinoBarton/Small-Basic-Calculator) - My first repo on a project done a while back in school.
-
-## 🤝🏻 Connect with Me!!!
-
-![Linkedin](https://img.shields.io/badge/-Linkedin-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dino-barton-722a48263/)
 [![GitHub](https://img.shields.io/badge/-Github-181717?style=flat-square&logo=github&link=https://github.com/yourusername)](https://github.com/DinoBarton/)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/yourusername)](https://twitter.com/D1n0Bart0n)
