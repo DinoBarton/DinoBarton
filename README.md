@@ -4,9 +4,7 @@
 
 I'm <strong>Dino</strong>, a passionate Developer 🚀 from [Mars](https://solarsystem.nasa.gov/planets/mars/overview/). 
 
-- 🌱 I’m currently learning [Python & JavaScript](https://www.youtube.com/watch?v=x7X9w_GIm1s).
-- 💬 Ask me about anything, I'm happy to help!
-- 📫 How to reach me: [Twitter](https://twitter.com/D1n0Bart0n).
+I am a student with a passion for technology and entrepreneurialism, I'm currently working on a side project called AgileOut a crowdsourcing platform that is tailored to consumers instead of the traditional enterprise side of the industry. Check out the idea [pitch](https://app.pitch.com/app/player/3119ca32-c61d-4035-a51f-98962beda19f/5a871121-391b-4a1d-bcd1-69a504e709a7)
 
 ## 🛠 &nbsp;Tech Stack
 
