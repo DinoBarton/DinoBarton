@@ -41,9 +41,6 @@ I am a student with a passion for technology and entrepreneurialism, I'm current
 </table>
 
 <div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?DinoBarton=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
 </div>
 
 </p>        
