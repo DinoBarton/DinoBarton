@@ -1,10 +1,4 @@
-<h1 align="center"><b>Hi , I'm Dino </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dinobarton&label=Profile%20views&color=0e75b6&style=flat" alt="dinobarton" /> </p>
-
-I'm <strong>Dino</strong>, a passionate Developer 🚀 from [Mars](https://solarsystem.nasa.gov/planets/mars/overview/). 
-
-I am a student with a passion for technology and entrepreneurialism, I'm currently working on a side project called AgileOut a crowdsourcing platform that is tailored to consumers instead of the traditional enterprise side of the industry. Check out the idea [pitch](https://app.pitch.com/app/player/3119ca32-c61d-4035-a51f-98962beda19f/5a871121-391b-4a1d-bcd1-69a504e709a7)
+Yoo
 
 ## 🛠 &nbsp;Tech Stack
 
