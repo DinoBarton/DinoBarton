@@ -1,4 +1,4 @@
-Yoo
+Yoo my name is Dino
 
 ## 🛠 &nbsp;Tech Stack
 
