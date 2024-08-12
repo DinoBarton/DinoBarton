@@ -1,4 +1,4 @@
-Yoo my name is Dino. W STREAK
+Yoo my name is Dino. Nooo new streak!
 
 ## 🛠 &nbsp;Tech Stack
 
