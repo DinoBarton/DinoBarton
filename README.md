@@ -1,4 +1,4 @@
-Yoo my name is Dino
+Hello my name is Dino
 
 ## 🛠 &nbsp;Tech Stack
 
