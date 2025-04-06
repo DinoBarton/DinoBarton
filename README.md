@@ -41,6 +41,7 @@ Yo my name is Dino
 <!--- stats (end) -->
 
 i didnt want to loose my streak
+I PROMISE IM CODING IM JUST WORKING ON A LOCAL PROJECT lmao
 
 ## 🤝🏻 Connect with Me
 
