@@ -40,10 +40,6 @@ Yo my name is Dino
 </p>        
 <!--- stats (end) -->
 
-i didnt want to loose my streak
-<br>
-I PROMISE IM CODING IM JUST WORKING ON A LOCAL PROJECT lmao
-
 ## 🤝🏻 Connect with Me
 
 [![GitHub](https://img.shields.io/badge/-Github-181717?style=flat-square&logo=github&link=https://github.com/yourusername)](https://github.com/DinoBarton/)
